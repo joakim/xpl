@@ -239,18 +239,6 @@ Appendix
 
 "Compatible Licences" according to Article 5 of the XPL are:
 
-- GNU General Public License (GPL) v. 2, v. 3
-- GNU Affero General Public License (AGPL) v. 3
-- Open Software License (OSL) v. 2.1, v. 3.0
-- Eclipse Public License (EPL) v. 1.0
-- CeCILL v. 2.0, v. 2.1
-- Mozilla Public Licence (MPL) v. 2
-- GNU Lesser General Public Licence (LGPL) v. 2.1, v. 3
-- Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for
-  works other than software
-- European Union Public Licence (EUPL) v. 1.1, v. 1.2
-- Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong
-  Reciprocity (LiLiQ-R+).
-
-All other changes or additions to this Appendix require the production of a new
-XPL version.
+- Extended Public Licence (XPL) version 1 or later
+- GNU General Public License (GPL) version 2 or later
+- GNU Affero General Public License (AGPL) version 3 or later
