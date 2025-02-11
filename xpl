@@ -1,4 +1,4 @@
-                          EXTENDED PUBLIC LICENCE v0.0
+                          EXTENDED PUBLIC LICENCE v0.1
 
 This Extended Public Licence (the "XPL") applies to the Work (as defined below)
 which is provided under the terms of this Licence. Any use of the Work, other
